@@ -1,0 +1,45 @@
+body {
+    font-weight: 900;
+}
+nav {
+    color: gray;
+}
+#artikle1 {
+    color: blueviolet;
+    font-weight: 300; 
+}
+.content-link-img {
+    width: 100px ;
+    height: 100px ;
+}
+.one-too-three {
+    color: black;
+}
+div div span { 
+    color: blueviolet
+}
+div .one-too-three {
+    color: red;
+}
+.f1 {
+    font-size:20px;
+}
+.d1 {
+    color: red;
+    
+}
+.d1:hover {
+    color: green;
+}
+.d1:visited{
+    color: blueviolet;
+}
+.d2 {
+    color: aqua;
+   
+
+}
+.d3 {
+    color: black;
+    
+}
